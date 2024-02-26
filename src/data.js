@@ -82,6 +82,16 @@ function chillHop() {
       id: uuidv4(),
       active: false,
     },
+{
+      name: "Rewind",
+      artist: "SwuM, afternoon bike ride",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2022/01/d7c0bd347f56540babd9dd85454b93a89df84a15-1024x1024.jpg",
+      audio: "https://chillhop.com/?p=12063",
+      color: ["#C57362", "#152C41"],
+      id: uuidv4(),
+      active: false,
+    },
   ];
 }
 
