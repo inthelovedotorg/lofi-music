@@ -16,7 +16,7 @@ function chillHop() {
       name: "Love Hurts Mashup",
       cover: "https://example.com/love-hurts-mashup-cover.jpg", // Update with your cover image URL
       artist: "Viniick",
-      audio: "https://drive.google.com/uc?export=download&id=1H07tdD3JRC7tt3B6Q03XaEviL4WwuIPk",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=10075",
       color: ["#B0B0B0", "#F0F0F0"], // Greyish white colors
       id: uuidv4(),
       active: true,
