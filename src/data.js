@@ -13,11 +13,11 @@ function chillHop() {
     },
     // Your custom song
     {
-      name: "My Custom Song",
-      cover: "https://example.com/my-custom-song-cover.jpg", // Update with your cover image URL
-      artist: "Myself",
+      name: "Love Hurts Mashup",
+      cover: "https://example.com/love-hurts-mashup-cover.jpg", // Update with your cover image URL
+      artist: "Viniick",
       audio: "https://drive.google.com/uc?export=download&id=1H07tdD3JRC7tt3B6Q03XaEviL4WwuIPk",
-      color: ["#abcdef", "#fedcba"], // Customize colors if needed
+      color: ["#B0B0B0", "#F0F0F0"], // Greyish white colors
       id: uuidv4(),
       active: false,
     },
